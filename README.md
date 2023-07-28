@@ -103,9 +103,6 @@ These are all the tasks of this project, the ones that are completed link to the
 * Handle the following custom conversion specifier:
   - R : prints the rot13'ed string
 
-### [16. * ]
-* All the above options work well together.
-
 ---
 
 ### Author
